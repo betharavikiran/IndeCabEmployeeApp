@@ -19,7 +19,7 @@ Meteor.startup(function() {
                 state:"Maharashtra",
                 postalCode:"110001",
                 email:"Rakesh.jain@gmail.com",
-                mobile:"71316464",
+                mobile:"7131646401",
                 salary:15000
             },
             {
@@ -32,7 +32,7 @@ Meteor.startup(function() {
                 state:"Maharashtra",
                 postalCode:"110051",
                 email:"Akash.sharma@gmail.com",
-                mobile:"71316475",
+                mobile:"7131647502",
                 salary:15050
             },
             {
@@ -45,7 +45,7 @@ Meteor.startup(function() {
                 state:"Maharashtra",
                 postalCode:"110055",
                 email:"Anupam.Gupta@gmail.com",
-                mobile:"71318475",
+                mobile:"7131847503",
                 salary:16000
             },
         ];
